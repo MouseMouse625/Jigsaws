@@ -1,1 +1,1 @@
-Here you can find some models of jigsaw puzzles in CAD. There are 11 sizes: 2 pieces, 4 pieces, 6 pieces, 12 pieces, 24 pieces, 48 pieces, 96 pieces, 144 pieces, 216 pieces, 432 pieces, and 576 pieces.
+Here you can find some models of jigsaw puzzles in CAD. There are 11 sizes: 1 Piece, 2 pieces, 4 pieces, 6 pieces, 12 pieces, 24 pieces, 48 pieces, 96 pieces, 144 pieces, 216 pieces, 432 pieces, and 576 pieces. In addition to this, there are frames for each puzzle. There are .STEP and .STL files for each model.
